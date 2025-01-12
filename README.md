@@ -1,9 +1,9 @@
- ** Stopwatch App**
-The Stopwatch App is a sleek and functional time-tracking application designed for Android. It allows users to start, pause, and reset the timer, displaying minutes, seconds, and milliseconds. Featuring intuitive controls, appealing animations, and a modern user interface, the app ensures a seamless experience for everyday usage.
+##  Stopwatch App
+**The Stopwatch App is a sleek and functional time-tracking application designed for Android. It allows users to start, pause, and reset the timer, displaying minutes, seconds, and milliseconds. Featuring intuitive controls, appealing animations, and a modern user interface, the app ensures a seamless experience for everyday usage.**
 
- ** Features**
+ ## Features
   
-Start, Pause, and Reset:
+**Start, Pause, and Reset:
 Start the stopwatch to begin tracking time.
 Pause the timer and resume whenever needed.
 Reset the timer to start fresh.
@@ -12,23 +12,21 @@ Icon-Based Buttons: Animated buttons with icons make the controls more visually 
 Modern UI/UX:
 Material design principles.
 Vibrant colors and responsive animations.
-Lightweight and Fast: Optimized for performance with minimal resource usage.
+Lightweight and Fast: Optimized for performance with minimal resource usage.**
 
-  **Tech Stack**
+##  Tech Stack
   
-Android: Java and XML for UI.
+**Android: Java and XML for UI.
 Chronometer: Used for time tracking.
 ObjectAnimator: Adds animations to buttons and components.
-Material Design: Ensures modern and intuitive design.
+Material Design: Ensures modern and intuitive design.**
 
-  **Future Enhancements
-  **
-Lap Timer: Ability to record multiple laps.
+  ## Future Enhancements
+**Lap Timer: Ability to record multiple laps.
 Custom Themes: Light and dark modes.
 Sound Effects: Alerts for start, pause, and reset actions.
-Data Persistence: Save lap times or stopwatch state.
+Data Persistence: Save lap times or stopwatch state.**
 
-  ** License**
-   
+  ## License  
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
